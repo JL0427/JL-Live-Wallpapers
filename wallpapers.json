@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "wallpapers": [
+    {
+      "id": "JL001",
+      "title": "Purple Galaxy",
+      "description": "Neon purple galaxy wallpaper",
+      "category": "Space",
+      "type": "static",
+      "featured": true,
+      "new": true,
+      "published": true,
+      "preview": "",
+      "download": ""
+    }
+  ]
+}
